@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/udurgesh6"><img src="https://api.daily.dev/devcards/0ccadab2dc6545c0818e743df7931887.png?r=yg4" width="400" alt="Durgesh Upadhyay's Dev Card"/></a>
 <!--
 **udurgesh6/udurgesh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
